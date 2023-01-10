@@ -1,8 +1,9 @@
 # Usage
-1. Download
-2. cd into the folder
-3. Run `python web_browser_start.py`
-4. Select startup page
+1. Install pyqt5 with `pip install pyqt5`
+2. Download
+3. cd into the folder
+4. Run `python web_browser_start.py`
+5. Select startup page
 
 # Tips
 Make sure to use the full URL with the http:// or https:// at the begining
