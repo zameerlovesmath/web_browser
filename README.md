@@ -1,2 +1,8 @@
-# Installation with gh
-1. Run
+# Usage
+1. cd into the folder
+2. Run `python web_browser_start.py`
+3. Select startup page
+
+# Tips
+Make sure to use the full URL with the http:// or https:// at the begining
+If you want to search something type it on the search engine and NOT in the URL bar.
