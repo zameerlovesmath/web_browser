@@ -1,7 +1,8 @@
 # Usage
-1. cd into the folder
-2. Run `python web_browser_start.py`
-3. Select startup page
+1. Download
+2. cd into the folder
+3. Run `python web_browser_start.py`
+4. Select startup page
 
 # Tips
 Make sure to use the full URL with the http:// or https:// at the begining
